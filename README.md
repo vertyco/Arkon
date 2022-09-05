@@ -1,5 +1,6 @@
 # Arkon
 
+![](screenshots/Capture.webp)
 
 ![Python 3.9](https://img.shields.io/badge/python-v3.9-blue?style=for-the-badge)
 ![Discord.py](https://img.shields.io/badge/discord-py-blue?style=for-the-badge)
@@ -36,3 +37,5 @@ Some features include:
 
 [**JOIN THE SUPPORT SERVER**](https://discord.gg/RaR3wR4MgY)
 
+
+![](screenshots/2nwls8mgy2m91.webp)![](screenshots/vdccf3kbouv71.webp)![](screenshots/oo3eqwaiz2m91.webp)![](screenshots/ug2sga6d03m91.webp)![](screenshots/feclfvfsz2m91.webp)![](screenshots/wfsc987cz2m91.webp)![](screenshots/3oc6yhfry2m91.webp)![](screenshots/ntr8gsnyz2m91.webp)![](screenshots/88qboruv13m91.webp)![](screenshots/sogbutduy2m91.webp)![](screenshots/sm5pzybx03m91.webp)![](screenshots/ccc4l09ny2m91.webp)![](screenshots/ppwdz9b7z2m91.webp)![](screenshots/wia5ln8oz2m91.webp)![](screenshots/0lmji5w2z2m91.webp)![](screenshots/lxmqp3auz2m91.webp)![](screenshots/fyfxyge303m91.webp)
